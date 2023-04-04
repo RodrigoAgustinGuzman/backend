@@ -1,3 +1,6 @@
+import fs from 'fs'
+
+
 class ProductManager {
     constructor(){
         this.products = []
